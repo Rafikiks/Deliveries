@@ -12,5 +12,5 @@
   
 </body>
 </html>
-
+//JavaScript
 console.log("Website launched!")
